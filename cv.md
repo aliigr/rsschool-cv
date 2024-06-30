@@ -31,4 +31,5 @@ In the next 5 years of my life, my main goal will be to find a field in which I 
 - Next.js
 - Python (include Machine Learning and Deep Learning), Java, C, C#, Haskell, Prolog
 - Intellij IDEA, Rider, Microsoft Visual Studio
+- **Methodologies**: imperative programming, functional programming, OOP, logical programming.
 
